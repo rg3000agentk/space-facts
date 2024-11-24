@@ -1,15 +1,18 @@
 // script.js
 const facts = [
-    "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old!",
-    "A day on Venus is longer than its year. It takes Venus 243 Earth days to rotate on its axis but only 225 Earth days to orbit the Sun.",
-    "The shortest war in history lasted 38 minutes between Britain and Zanzibar in 1896.",
-    "Bananas are berries, but strawberries aren't!",
-    "The first oranges weren't orange! The original oranges from Southeast Asia were actually green.",
-    "A group of flamingos is called a 'flamboyance'.",
-    "Cows have best friends and get stressed when separated from them.",
-    "The average person spends 6 months of their lifetime waiting for red lights to turn green.",
-    "A hedgehog's heart beats 300 times a minute on average!",
-    "The fingerprints of koalas are so similar to human fingerprints that they have on occasion been confused at a crime scene!"
+    "The human body contains enough carbon to make around 900 pencils!",
+    "A hummingbird weighs less than a penny but its heart beats up to 1,260 times per minute!",
+    "The Great Wall of China is not visible from space with the naked eye, contrary to popular belief.",
+    "Squirrels plant thousands of new trees each year by forgetting where they buried their acorns.",
+    "A day on Mars is only 37 minutes longer than a day on Earth.",
+    "Sloths are so slow that algae can grow on their fur, giving them a greenish tint.",
+    "The average person spends 2 weeks of their lifetime waiting for traffic lights to change.",
+    "Octopuses have three hearts and their blood is blue!",
+    "The shortest commercial flight in the world is just 1.5 minutes long between two Scottish islands.",
+    "The world's deepest postbox is in Susami, Japan - it's 133 feet underwater and can only be accessed by scuba divers!",
+    "A bolt of lightning is six times hotter than the surface of the sun.",
+    "Honeybees can recognize human faces!",
+    "The average cloud weighs around 1.1 million pounds due to all the water droplets it contains."
 ];
 
 const factText = document.getElementById('fact-text');
